@@ -6,7 +6,7 @@ authors = ["Luis Guilherme de Souza Munhoz <luisguilherme.sm@hotmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8.1"
 graphene = "^3.3"
 
 
